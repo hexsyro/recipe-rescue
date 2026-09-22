@@ -8,6 +8,8 @@ Built as a hands-on project to practice: Python fundamentals, NumPy vectorized o
 
 ---
 
+![Complexity-rating correlation by category](outputs/complexity_rating_by_category.png)
+
 ## 🎯 Project Questions
 
 - Do recipes with more ingredients/steps rate worse, better, or about the same?
