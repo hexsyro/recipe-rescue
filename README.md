@@ -8,7 +8,7 @@ Built as a hands-on project to practice: Python fundamentals, NumPy vectorized o
 
 ---
 
-![Complexity-rating correlation by category](outputs/complexity_rating_by_category.png)
+![Bar chart showing weak correlation between recipe complexity and rating across nine categories, ranging from -0.03 to 0.06](outputs/complexity_rating_by_category.png)
 
 ## 🎯 Project Questions
 
